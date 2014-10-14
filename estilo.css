@@ -1,0 +1,23 @@
+#cabecalho{
+    background-color:#6175f0;
+    color:white;
+    padding-top:20px;
+    padding-left:34px;
+}
+
+#cabecalho h1{
+    font-size:36px;
+    font-family: 'Kaushan Script';
+}
+
+h2{
+    font-size:24px;
+    font-family: times;
+    font-weight: normal;
+    padding-bottom:13px;
+}
+
+#verdade img{
+    float:left;
+    width:310;
+}
